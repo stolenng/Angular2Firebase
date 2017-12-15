@@ -19,7 +19,7 @@
 
 # Secrects
 /src/environments/*.js
-/src/environments/*.ts
+/src/environments/*.map
 
 # IDE - VSCode
 .vscode/*

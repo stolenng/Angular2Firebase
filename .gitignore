@@ -17,6 +17,10 @@
 .settings/
 *.sublime-workspace
 
+# Secrects
+/src/environments/*.js
+/src/environments/*.ts
+
 # IDE - VSCode
 .vscode/*
 !.vscode/settings.json

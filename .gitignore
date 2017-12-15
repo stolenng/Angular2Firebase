@@ -19,7 +19,7 @@
 
 # Secrects
 /src/environments
-/src/environments
+/src/environments/**
 
 # IDE - VSCode
 .vscode/*

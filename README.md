@@ -1,6 +1,7 @@
 # MyApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.3.
+-   This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.3.
+-   Database - Google Firebase used with angularfire2 - https://github.com/angular/angularfire2
 
 ## Development server
 

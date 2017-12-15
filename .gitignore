@@ -18,8 +18,8 @@
 *.sublime-workspace
 
 # Secrects
-/src/environments/*.js
-/src/environments/*.map
+/src/environments
+/src/environments
 
 # IDE - VSCode
 .vscode/*
